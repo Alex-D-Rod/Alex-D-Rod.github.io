@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear Schr\"odinger equation with combined nonlinearities in 1D"
+title: "Nonlinear Schrödinger equation with combined nonlinearities in 1D"
 collection: talks
 type: "Talk"
 permalink: /talks/2022JMMTalk
