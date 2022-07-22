@@ -2,7 +2,7 @@
 title: "Nonlinear Schr\"odinger equation with combined nonlinearities in 1D"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2022JMMTalk
 venue: "JMM 2022 AMS Contributed Paper Session"
 date: 04-06-2022
 location: "Virtual"
