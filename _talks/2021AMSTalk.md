@@ -1,7 +1,7 @@
 ---
 title: "Solutions to the 1D focusing stochastic NLS equation with spatially correlated noise."
 collection: talks
-type: "talk"
+type: "Talk"
 permalink: /talks/2021AMSTalk
 venue: "AMS Fall Southeastern Sectional Meeting"
 date: 21-11-2021
