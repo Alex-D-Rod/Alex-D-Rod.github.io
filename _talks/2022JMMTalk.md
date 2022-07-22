@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022JMMTalk
 venue: "JMM 2022 AMS Contributed Paper Session"
-date: 04-06-2022
+date: 06-04-2022
 location: "Virtual"
 ---
 
