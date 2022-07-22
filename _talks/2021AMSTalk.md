@@ -4,7 +4,7 @@ collection: talks
 type: "talk"
 permalink: /talks/2021AMSTalk
 venue: "AMS Fall Southeastern Sectional Meeting"
-date: 11-21-2021
+date: 21-11-2021
 location: "Virtual"
 ---
 
